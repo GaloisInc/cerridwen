@@ -1,0 +1,8 @@
+packages: .
+          submodules/parameterized-utils
+          submodules/flexdis86
+          submodules/flexdis86/binary-symbols
+          submodules/dwarf
+          submodules/elf-edit
+          submodules/macaw/base
+          submodules/macaw/x86

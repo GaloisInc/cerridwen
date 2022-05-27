@@ -1,0 +1,15 @@
+[submodule "submodules/parameterized-utils"]
+	path = submodules/parameterized-utils
+	url = https://github.com/GaloisInc/parameterized-utils
+[submodule "submodules/macaw"]
+	path = submodules/macaw
+	url = https://github.com/GaloisInc/macaw
+[submodule "submodules/elf-edit"]
+	path = submodules/elf-edit
+	url = https://github.com/GaloisInc/elf-edit
+[submodule "submodules/dwarf"]
+	path = submodules/dwarf
+	url = https://github.com/GaloisInc/dwarf
+[submodule "submodules/flexdis86"]
+	path = submodules/flexdis86
+	url = https://github.com/GaloisInc/flexdis86

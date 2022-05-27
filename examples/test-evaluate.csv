@@ -1,0 +1,3 @@
+test, examples/macaw-x86-symbolic/saturate-add.unopt.exe, "examples/macaw-x86-symbolic/saturate-add.*.exe", "examples/macaw-x86-symbolic/*.exe", examples/Labeled-Elfs-summary, 0
+X,X,X,X,X, 10
+X,X,X,X,X, 100
