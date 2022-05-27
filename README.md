@@ -1,3 +1,5 @@
+Cerridwen is (C) 2022 Galois, Inc., and distributed under a standard, three-clause BSD license. Please see the file LICENSE, distributed with this software, for specific terms and conditions.
+
 # Cerridwen
 This repository implements a tool to generate and weight hash of binaries in order to be able to quantify similarities between binaries. Inspiration for the algorithm and the unbounded similarity score are taken from "Similarity of Binaries through re-Optimization" (David, Partush and Yahav, PLDI 2017).
 
@@ -142,5 +144,7 @@ $ python morfran/evaluate.py example/test-evaluate.csv > result.csv
  X can be used in place of `TARGET`, `POSITIVE`, `NEGATIVE`, `CORPUS` and `BOUND` to use instead the value in the first row.
  X can be used in place of `NAME` to use as `NAME` the `ACCURACY` appended to first row's `NAME`.
 
+# Acknowledgements
 
-
+This material is based upon work supported by the Defense Advanced Research Projects Agency (DARPA) and Space and Naval Warfare
+Systems Center, Pacific (SSC Pacific) under Contract No. N66001-15-C-4070. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of DARPA or SSC Pacific.
